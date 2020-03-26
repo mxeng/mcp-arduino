@@ -21,6 +21,7 @@
 // Disable Arduino functions
 void digitalRead(int, int) {}
 void digitalWrite(int, int) {}
+void analogRead(int) {}
 void pinMode(int, int) {}
 
 // constants
